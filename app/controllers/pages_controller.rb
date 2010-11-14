@@ -3,7 +3,7 @@ class PagesController < ApplicationController
     @title = "Home"
   end
 
-  def contact
+  def contact 
     @title = "Contact"
   end
   
